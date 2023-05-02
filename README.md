@@ -1,11 +1,11 @@
 # Deforum Stable Diffusion
 
 <p align="left">
-    <a href="https://github.com/deforum-art/deforum-stable-diffusion/commits"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/deforum-art/deforum-stable-diffusion"></a>
-    <a href="https://github.com/deforum-art/deforum-stable-diffusion/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/deforum-art/deforum-stable-diffusion"></a>
-    <a href="https://github.com/deforum-art/deforum-stable-diffusion/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/deforum-art/deforum-stable-diffusion"></a>
-    <a href="https://github.com/deforum-art/deforum-stable-diffusion/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/deforum-art/deforum-stable-diffusion"></a>
-    <a href="https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb"><img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>  
+    <a href="https://github.com/followDev/python-deforum-stable-diffusion/commits"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/deforum-art/deforum-stable-diffusion"></a>
+    <a href="https://github.com/followDev/python-deforum-stable-diffusion/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/deforum-art/deforum-stable-diffusion"></a>
+    <a href="https://github.com/followDev/python-deforum-stable-diffusion/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/deforum-art/deforum-stable-diffusion"></a>
+    <a href="https://github.com/followDev/python-deforum-stable-diffusion/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/deforum-art/deforum-stable-diffusion"></a>
+    <a href="https://github.com/followDev/python-deforum-stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb"><img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>  
     <a href="https://replicate.com/deforum-art/deforum-stable-diffusion"><img alt="Replicate" src="https://replicate.com/deforum-art/deforum-stable-diffusion/badge"></a>  
 </p>
 
@@ -64,7 +64,7 @@ conda activate dsd
 
 2. Clone this github repository and navigate to it:
 ```
-git clone https://github.com/deforum-art/deforum-stable-diffusion.git
+git clone https://github.com/followDev/python-deforum-stable-diffusion.git
 cd deforum-stable-diffusion
 ```
 
